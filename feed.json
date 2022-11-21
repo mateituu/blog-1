@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vulture&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://blog.elvulture.ml",
+    "feed_url": "https://blog.elvulture.ml/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ElVulture"
+    },
+    "items": [
+        {
+            "id": "https://blog.elvulture.ml/bienvenidos-al-blog.html",
+            "url": "https://blog.elvulture.ml/bienvenidos-al-blog.html",
+            "title": "Bienvenidos al blog",
+            "summary": "Hola a todos, yo soy JustNotVulture. Nunca me ha ido el tema de hacer un blog y esas cosas, pero se me ocurrió y aquí estoy, pues. Qué voy a publicar Principalmente publicaré artículos y también cosas mías. Tampoco es que le vaya a dedicar&hellip;",
+            "content_html": "<p>Hola a todos, yo soy JustNotVulture. Nunca me ha ido el tema de hacer un blog y esas cosas, pero se me ocurrió y aquí estoy, pues.</p>\n<p class=\"align-center\"><strong>Qué voy a publicar</strong></p>\n<p>Principalmente publicaré artículos y también cosas mías. Tampoco es que le vaya a dedicar muchísimo tiempo, o sea, este es un blog que hago por que me aburro, nada más.</p>\n<p class=\"align-center\"><strong>Otro</strong></p>\n<p>Este blog lo estoy creando con el CMS <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii </a></p>\n<p>y hosteando con Netlify.</p>\n<p>Bueno, nada más.</p>",
+            "author": {
+                "name": "ElVulture"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-21T14:55:54+01:00",
+            "date_modified": "2022-11-21T14:55:54+01:00"
+        }
+    ]
+}

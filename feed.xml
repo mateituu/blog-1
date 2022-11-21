@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vulture&#x27;s Blog</title>
+    <link href="https://blog.elvulture.ml/feed.xml" rel="self" />
+    <link href="https://blog.elvulture.ml" />
+    <updated>2022-11-21T14:55:54+01:00</updated>
+    <author>
+        <name>ElVulture</name>
+    </author>
+    <id>https://blog.elvulture.ml</id>
+
+    <entry>
+        <title>Bienvenidos al blog</title>
+        <author>
+            <name>ElVulture</name>
+        </author>
+        <link href="https://blog.elvulture.ml/bienvenidos-al-blog.html"/>
+        <id>https://blog.elvulture.ml/bienvenidos-al-blog.html</id>
+
+        <updated>2022-11-21T14:55:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hola a todos, yo soy JustNotVulture. Nunca me ha ido el tema de hacer un blog y esas cosas, pero se me ocurrió y aquí estoy, pues. Qué voy a publicar Principalmente publicaré artículos y también cosas mías. Tampoco es que le vaya a dedicar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hola a todos, yo soy JustNotVulture. Nunca me ha ido el tema de hacer un blog y esas cosas, pero se me ocurrió y aquí estoy, pues.</p>
+<p class="align-center"><strong>Qué voy a publicar</strong></p>
+<p>Principalmente publicaré artículos y también cosas mías. Tampoco es que le vaya a dedicar muchísimo tiempo, o sea, este es un blog que hago por que me aburro, nada más.</p>
+<p class="align-center"><strong>Otro</strong></p>
+<p>Este blog lo estoy creando con el CMS <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii </a></p>
+<p>y hosteando con Netlify.</p>
+<p>Bueno, nada más.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
